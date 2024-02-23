@@ -1,30 +1,31 @@
-### Hi there 👋, I'm Sabbir Ahmed
-#### Working on Web Development and Research
-![Working on Web Development and Research](https://thumbs.dreamstime.com/z/concept-scientific-research-23899445.jpg?ct=jpeg)
+<h1 align="center">Hi 👋, I'm Sabbir Ahmed</h1>
+<h3 align="center">I am a learner who always try to explore new things. I like to watch sports, series and enjoy travelling. Now, I am working on web development, problem-solving and research. I enjoy working with include Python, HTML, CSS, PHP as well as C++.</h3>
 
-I am a learner who always try to explore new things. I like to watch sports, series and enjoy travelling. Now, I am working on web development, problem-solving and research. I enjoy working with include Python, HTML, CSS, PHP as well as C++.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir486&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir486" /> </p>
 
-Skills:  HTML / CSS / PYTHON / C++ / PHP 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbir486" alt="sabbir486" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning** 
-- 🌱 I’m currently learning **Web Development** 
-- 💬 Ask me about **C++, Python, HTML, CSS, PHP** 
-- 📫 How to reach me: **sabbirahmed46486@gmail.com** 
+- 🔭 I’m currently working on **Deep Learning**
 
+- 🌱 I’m currently learning **Web Development**
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Sabbir Ahmed)  
+- 💬 Ask me about **C++, Python, PHP, CSS, HTML**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+- 📫 How to reach me **sabbirahmed46486@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sabbir486)](https://github.com/ryo-ma/github-profile-trophy)
+- ⚡ Fun fact **I think I am funny and Jolly**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir486)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/sabbirahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbirahmed" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tiger486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tiger486" height="30" width="40" /></a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabbir486&show_icons=true&count_private=true)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/Sabbir486)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbir486&show_icons=true&locale=en&layout=compact" alt="sabbir486" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sabbir486)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbir486&show_icons=true&locale=en" alt="sabbir486" /></p>
 
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir486&" alt="sabbir486" /></p>
