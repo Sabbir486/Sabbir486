@@ -1,5 +1,4 @@
-
-- 👋 Hi, I’m @Sabbir486
+       👋 Hi, I’m @Sabbir486
 - 👀 I’m interested in ...Artificial Intelligence
 - 🌱 I’m currently learning ...html php css python C++
 - 💞️ I’m looking to collaborate on ...
