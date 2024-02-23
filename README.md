@@ -1,6 +1,6 @@
        👋 Hey, It's SABBIR AHMED
 - 👀 I’m interested in ...Artificial Intelligence
-- 🌱 I’m currently learning ...html php css python C++
+- 🌱 I’m currently learning ...Web Development, Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sabbirahmed46486@gmail.com
 - 😄 Pronouns: ...
