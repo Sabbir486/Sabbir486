@@ -1,8 +1,9 @@
+
 - 👋 Hi, I’m @Sabbir486
 - 👀 I’m interested in ...Artificial Intelligence
 - 🌱 I’m currently learning ...html php css python C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...sabbirahmed46486@gmail.com
+- 📫 How to reach me sabbirahmed46486@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
