@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabbir Ahmed</h1>
-<h3 align="center">I am a learner who always try to explore new things. I like to watch sports, series and enjoy travelling. Now, I am working on web development, problem-solving and research. I enjoy working with include Python, HTML, CSS, PHP as well as C++.</h3>
+<h3 align="center">I am a learner who always try to explore new things. I like to watch sports, series and enjoy travelling. Now, I am working on web development, problem-solving and research. I enjoy working with include C++, Python, HTML, CSS, PHP as well as JavaScript.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbir486" alt="sabbir486" /></a> </p>
 
