@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbir486" alt="sabbir486" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Web Development && Machine Learning**
+- 🌱 I’m currently learning **Web Development && UI/UX**
 
-- 💬 Ask me about **C++, Python, PHP, CSS, HTML, JS**
+- 💬 Ask me about **C++, Python, PHP, CSS, HTML, JS, Figma**
 
 - 📫 How to reach me **sabbirahmed46486@gmail.com**
 
