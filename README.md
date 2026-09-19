@@ -34,7 +34,7 @@
 ### 🛠 Tech Stack & Research Frameworks
 
 <p align="center">
-**Core Languages & Tools:**
+Core Languages & Tools:
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-**AI / ML / Deep Learning & Data Science:**
+AI / ML / Deep Learning & Data Science:
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-**Databases & Tools:**
+Databases & Tools:
 </p>
 
 <p align="center">
@@ -77,4 +77,8 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sabbir486&theme=tokyonight&hide_border=true" alt="sabbir486 streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/40c463/sabbir486" alt="sabbir486's GitHub Contribution Chart" />
 </p>
