@@ -61,13 +61,11 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbir486&show_icons=true&theme=tokyonight&hide_border=true" alt="sabbir486's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabbir486&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sabbir486's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir486&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir486&theme=tokyonight&hide_border=true" alt="sabbir486 streak" />
+  <img src="https://streak-stats.demolab.com/?user=sabbir486&theme=tokyonight&hide_border=true" alt="sabbir486 streak" />
 </p>
