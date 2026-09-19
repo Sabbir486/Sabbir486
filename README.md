@@ -81,14 +81,6 @@ Databases & Tools:
 
 ### GitHub Contribution Chart
 
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?action=get&color=2196F3&label=2026%20Contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-contributions-api.jasonwei.dev%2Factivity%2Fsabbir486%3Fyear%3D2026&style=for-the-badge&logo=github" alt="sabbir486 Contributions" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://ghchart.rshah.org/2196F3/sabbir486" alt="sabbir486's GitHub Contribution Chart" />
-</p> -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbir486&show_icons=true&locale=en&layout=compact" alt="sabbir486" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbir486&show_icons=true&locale=en" alt="sabbir486" /></p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/40c463/sabbir486" alt="sabbir486's GitHub Contribution Chart" />
+</p>
