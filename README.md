@@ -79,8 +79,8 @@ Databases & Tools:
   <img src="https://streak-stats.demolab.com/?user=sabbir486&theme=tokyonight&hide_border=true" alt="sabbir486 streak" />
 </p>
 
-### GitHub Contribution Chart
+<!-- ### GitHub Contribution Chart -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://ghchart.rshah.org/40c463/sabbir486" alt="sabbir486's GitHub Contribution Chart" />
-</p>
+</p> -->
