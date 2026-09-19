@@ -79,13 +79,6 @@ Databases & Tools:
   <img src="https://streak-stats.demolab.com/?user=sabbir486&theme=tokyonight&hide_border=true" alt="sabbir486 streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir486&theme=tokyonight&hide_border=true" alt="sabbir486 streak and total contributions" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/40c463/sabbir486" alt="sabbir486's GitHub Contribution Chart" />
-</p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/40c463/sabbir486" alt="sabbir486's GitHub Contribution Chart" />
