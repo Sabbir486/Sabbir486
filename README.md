@@ -15,7 +15,7 @@
 
 - 🔬 **Current Focus:** Machine Learning, Deep Learning, Fine-Tuning LLMs, Multimodal AI Architecture & Applied NLP
 - 🌱 **Currently Exploring:** Vision Transformers, Vision-Language Models (VLMs) & Retrieval-Augmented Generation (RAG)
-- 💬 **Ask Me About:** Python, PyTorch, Data Pre-Processing, Model Optimization, Machine Learning Pipelines, Deep Learning
+- 💬 **Ask Me About:** Python, PyTorch, Data Pre-Processing, Model Optimization, Machine Learning Pipelines
 - 📫 **How to Reach Me:** [sabbirahmed46486@gmail.com](mailto:sabbirahmed46486@gmail.com)
 
 ---
@@ -60,10 +60,12 @@
 
 ---
 
-<p align="center">
+### GitHub Stats
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabbir486&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sabbir486's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir486&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sabbir486&theme=tokyonight&hide_border=true" alt="sabbir486 streak" />
