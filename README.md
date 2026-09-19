@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sabbir Ahmed</h1>
-<h3 align="center">Data Science & AI/ML Enthusiast | Researcher | Problem Solver</h3>
+<h3 align="center">AI & ML Researcher | NLP, LLM & VLM Specialist | Data Scientist</h3>
 
 <p align="center">
-  <a href="https://github.com/sabbir486"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2196F3&center=true&vcenter=true&width=500&lines=Machine+Learning+%26+Deep+Learning;Data+Science+%26+Analytics;AI+Research+%26+Problem+Solving" alt="Typing SVG" /></a>
+  <a href="https://github.com/sabbir486"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2196F3&center=true&vcenter=true&width=550&lines=LLM+%26+VLM+Research;Natural+Language+Processing+(NLP);Deep+Learning+%26+Computer+Vision;Data+Science+%26+Predictive+Analytics" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  I am a passionate learner exploring <b>Artificial Intelligence, Machine Learning, and Data Science</b>[cite: 1]. I enjoy tackling complex problems, building intelligent systems, and conducting data-driven research[cite: 1]. In my free time, I like watching sports, watching series, and traveling[cite: 1].
+  I am a passionate researcher and engineer exploring the frontiers of <b>Artificial Intelligence, Machine Learning, and Data Science</b>[cite: 1]. My primary focus lies in <b>Natural Language Processing (NLP), Large Language Models (LLMs), and Vision-Language Models (VLMs)</b>. I specialize in building intelligent multimodal systems, fine-tuning generative models, and conducting data-driven research[cite: 1]. In my free time, I enjoy watching sports, watching series, and traveling[cite: 1].
 </p>
 
 ---
 
-### 🔭 About Me
+### 🔭 Research & Interests
 
-- 🔬 **Current Focus:** Deep Learning, Machine Learning Models & Applied AI Research[cite: 1]
-- 🌱 **Currently Exploring:** Computer Vision, NLP & Advanced Data Analytics
-- 💬 **Ask Me About:** Python, C++, Machine Learning Pipelines, PyTorch, TensorFlow, SQL[cite: 1]
+- 🔬 **Current Focus:** Fine-Tuning LLMs/VLMs, Multimodal AI Architecture & Applied NLP
+- 🌱 **Currently Exploring:** Prompt Engineering, Retrieval-Augmented Generation (RAG) & Vision Transformers
+- 💬 **Ask Me About:** Python, PyTorch, Transformers, Model Optimization, Machine Learning Pipelines[cite: 1]
 - 📫 **How to Reach Me:** [sabbirahmed46486@gmail.com](mailto:sabbirahmed46486@gmail.com)[cite: 1]
 - ⚡ **Fun Fact:** I think I am funny and jolly![cite: 1]
 
@@ -32,9 +32,9 @@
 
 ---
 
-### 🛠 Languages, Frameworks & Data Science Tech
+### 🛠 Tech Stack & Research Frameworks
 
-**Languages & Core Tools:**
+**Core Languages & Tools:**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -42,7 +42,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-**Machine Learning & Data Science:**
+**AI / ML / Deep Learning & Data Science:**
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 </p>
 
-**Databases & API Testing:**
+**Databases & Tools:**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
